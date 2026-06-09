@@ -1,2 +1,0 @@
-# Scalper
-Dharma-lab trader
